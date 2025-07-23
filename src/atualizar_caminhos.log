@@ -1,0 +1,19 @@
+2025-07-22 10:45:31,784 - INFO - [ATUALIZADOR.CAMINHOS] Iniciando atualizador otimizado de caminhos
+2025-07-22 10:45:31,799 - INFO - [ATUALIZADOR.CAMINHOS.VIEW] 0 registros pendentes (via view otimizada)
+2025-07-22 10:45:31,800 - INFO - [ATUALIZADOR.CAMINHOS] Todos os registros já têm caminhos atualizados
+2025-07-22 10:47:00,236 - INFO - [ATUALIZADOR.CAMINHOS] Iniciando atualizador otimizado de caminhos
+2025-07-22 10:47:00,240 - INFO - [ATUALIZADOR.CAMINHOS.VIEW] 0 registros pendentes (via view otimizada)
+2025-07-22 10:47:00,240 - INFO - [ATUALIZADOR.CAMINHOS.DESCOBERTA] Descobrindo arquivos XML
+2025-07-22 10:47:00,242 - WARNING - [LISTAR] Pasta nao existe: resultado
+2025-07-22 10:47:00,242 - INFO - [ATUALIZADOR.CAMINHOS.DESCOBERTA] 0 arquivos XML encontrados
+2025-07-22 10:47:00,243 - INFO - [ATUALIZADOR.CAMINHOS.DESCOBERTA] Total: 0 arquivos para processamento
+2025-07-22 10:47:00,243 - WARNING - [ATUALIZADOR.CAMINHOS.DESCOBERTA] Nenhum arquivo XML encontrado
+2025-07-22 10:47:22,347 - INFO - [ATUALIZADOR.CAMINHOS] Iniciando atualizador otimizado de caminhos
+2025-07-22 10:47:22,351 - INFO - [ATUALIZADOR.CAMINHOS.VIEW] 0 registros pendentes (via view otimizada)
+2025-07-22 10:47:22,352 - INFO - [ATUALIZADOR.CAMINHOS.DESCOBERTA] Descobrindo arquivos XML
+2025-07-22 10:47:22,352 - INFO - [ATUALIZADOR.CAMINHOS.DESCOBERTA] 0 arquivos XML encontrados
+2025-07-22 10:47:22,353 - INFO - [ATUALIZADOR.CAMINHOS.DESCOBERTA] Total: 0 arquivos para processamento
+2025-07-22 10:47:22,353 - WARNING - [ATUALIZADOR.CAMINHOS.DESCOBERTA] Nenhum arquivo XML encontrado
+2025-07-22 10:48:25,675 - INFO - [ATUALIZADOR.CAMINHOS] Iniciando atualizador otimizado de caminhos
+2025-07-22 10:48:25,679 - INFO - [ATUALIZADOR.CAMINHOS.VIEW] 0 registros pendentes (via view otimizada)
+2025-07-22 10:48:25,680 - INFO - [ATUALIZADOR.CAMINHOS.DESCOBERTA] Descobrindo arquivos XML

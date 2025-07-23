@@ -1,0 +1,6 @@
+2025-07-22 10:57:29,208 - INFO - [verificacao] Iniciando verificacao de XMLs no disco...
+2025-07-22 10:57:29,208 - INFO - [DISCO] Iniciando verificacao de arquivos XML no disco... (workers=8, batch=500)
+2025-07-22 10:57:29,210 - INFO - [DISCO] Total de notas pendentes no banco: 0
+2025-07-22 10:57:29,211 - INFO - [DISCO] XMLs validos encontrados: 0
+2025-07-22 10:57:29,211 - INFO - [BANCO] Nenhuma chave para atualizar.
+2025-07-22 10:57:29,211 - INFO - [verificacao] Processo de verificacao finalizado.
